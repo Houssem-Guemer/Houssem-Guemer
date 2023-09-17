@@ -3,7 +3,10 @@
 ## 🚀 About Me
 
 🎓 I am Houssem Guemer, a **Full Stack Senior Web Developer / Project manager** (specializing in **Laravel/Symfony & React Applications**) and also worked on Odoo for a few years. 
-👨‍💻 I enjoy contributing to **Open Source Projects**. I am really enthusiastic about learning new technology. In 2018, I learned **Vue.js**, **Laravel** **Progressive Web App (PWA)**, **Android developpement ** and **native development frameworks**. I got started with [**Freelancing**] and made a name for myself.
+
+
+👨‍💻 I enjoy contributing to **Open Source Projects**. I am really enthusiastic about learning new technology. In 2018, I learned **Vue.js**, **Laravel** **Progressive Web App (PWA)**, **Android developpement** and **native development frameworks**. I got started with [**Freelancing**] and made a name for myself.
+
 
 🎸 Outside the world of tech too, I enjoy **Playing video Games**, **watching Anime** and **Coding !**.
 
@@ -59,6 +62,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Houssem-Guemer&show_icons=true&hide_border=true" alt="Mahgoun Oussama's GitHub Stats">
     <br />
 </div>
+
 ## 🔗 Links
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/houssem-guemer-b61439198/)
