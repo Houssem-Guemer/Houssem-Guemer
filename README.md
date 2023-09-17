@@ -32,6 +32,7 @@
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![ant design](https://img.shields.io/badge/ANT%20Design-1181ff?style=for-the-badge&logo=antdesign)
 
 
 ### Cross Platform Development
