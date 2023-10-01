@@ -59,7 +59,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=houssem-guemer&" alt="houssem-guemer" /></p>
 
-## 🔗 Links
+## 🔗 Connect with me:
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/houssem-guemer-b61439198/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Houssem-Guemer/)
+<p align="left">
+<a href="https://linkedin.com/in/houssem-guemer-b61439198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="houssem-guemer-b61439198" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10234021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10234021" height="30" width="40" /></a>
+<a href="https://medium.com/@houssem.guemer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@houssem.guemer" height="30" width="40" /></a>
+</p>
