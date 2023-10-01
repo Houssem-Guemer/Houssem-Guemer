@@ -57,12 +57,7 @@
 
 ## 📈 Stats
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Houssem-Guemer&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=Houssem-Guemer&show_icons=true&hide_border=true" alt="Mahgoun Oussama's GitHub Stats">
-    <br />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=houssem-guemer&" alt="houssem-guemer" /></p>
 
 ## 🔗 Links
 
